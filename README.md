@@ -45,7 +45,6 @@ This repository contains examples of my work in:
 ## 📫 Contact
 
 - Location: Melbourne, Australia  
-- LinkedIn: (add your link here)
 - GitHub: https://github.com/Mosk09
 
 Thank you for visiting my QA portfolio!
